@@ -1,4 +1,5 @@
 En este proyecto vamos a ver como usar el manejo de versiones en Github.
+
 Crear tres ramas nuevas a partir de la rama principal, nombradas como "funcionalidad1", "funcionalidad2" y "funcionalidad3". 
 
 Cada estudiante debe clonar el repositorio y trabajar en su propia rama correspondiente a la funcionalidad asignada. 
